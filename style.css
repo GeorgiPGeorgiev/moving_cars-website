@@ -45,6 +45,6 @@ div{
 }
 
 @keyframes drive{
-    from{transform: translateX(-30vw);}
+    from{transform: translateX(-50vw);}
     to{transform: translateX(120vw);}
 }
