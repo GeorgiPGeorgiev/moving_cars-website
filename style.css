@@ -27,7 +27,7 @@ div{
     height: 14vh;
     bottom: 25vh;
     animation-name: drive;
-    animation-duration: 10s;
+    animation-duration: 15s;
     animation-iteration-count: infinite;
     animation-fill-mode: both;
     animation-timing-function: linear;
